@@ -1,8 +1,8 @@
 # stuff
 
-'''
+```
 this is a code example but with no code.
-'''
+```
 
 - [x] this is list item 1
 - [x] this is item 2
